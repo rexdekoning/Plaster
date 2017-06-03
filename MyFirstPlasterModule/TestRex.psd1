@@ -21,13 +21,13 @@ ModuleVersion = '0.1.0'
 GUID = '243967cc-6177-43b1-a6ea-fe4e160d872e'
 
 # Author of this module
-Author = 'rexde'
+Author = 'Rex de Koning'
 
 # Company or vendor of this module
 CompanyName = 'Unknown'
 
 # Copyright statement for this module
-Copyright = '(c) 2017 rexde. All rights reserved.'
+Copyright = '(c) 2017 Rex de Koning. All rights reserved.'
 
 # Description of the functionality provided by this module
 # Description = ''
