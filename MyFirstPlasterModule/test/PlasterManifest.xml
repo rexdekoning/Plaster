@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<plasterManifest
+  schemaVersion="1.0" xmlns="http://www.microsoft.com/schemas/PowerShell/Plaster/v1">
+  <metadata>
+    <name>MyCustomPlasterTemplate</name>
+    <id>5a28e190-4c7a-4f5d-b798-4e23387d235c</id>
+    <version>0.0.1</version>
+    <title>RDK Custom Plaster Template</title>
+    <description></description>
+    <author>Rex de Koning</author>
+    <tags></tags>
+  </metadata>
+  <parameters></parameters>
+  <content></content>
+</plasterManifest>
